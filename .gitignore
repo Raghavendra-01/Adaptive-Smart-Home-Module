@@ -1,0 +1,22 @@
+# Compiled Arduino files
+*.bin
+*.hex
+*.elf
+*.map
+
+# Build directories
+build/
+.pio/
+
+# IDE files
+.vscode/
+*.code-workspace
+*.DS_Store
+Thumbs.db
+
+# Credentials (NEVER commit real credentials)
+secrets.h
+config_private.h
+
+# Libraries (installed separately)
+libraries/
