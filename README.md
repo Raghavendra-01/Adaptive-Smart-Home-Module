@@ -22,9 +22,9 @@
 
 | Document | Link |
 |----------|------|
-| 🌐 Interactive HTML Presentation | [smart-home-presentation.html](docs/smart-home-presentation.html) |
-| 📊 Presentation (PPT) | [SmartHome_Presentation.pptx](docs/SmartHome_Presentation.pptx) |
-| 📄 Project Report | [SmartHome_Report.docx](docs/SmartHome_Report.docx) |
+| 🌐 Interactive HTML Presentation | [smart_home.html](smart_home.html) |
+| 📊 Presentation (PPT) | [ESP32_Cloud_Home_Automation.pptx](ESP32_Cloud_Home_Automation.pptx) |
+| 📄 Project Report (PDF) | [ADAPTIVE_SMART_HOME_MODULE_Report.pdf](ADAPTIVE_SMART_HOME_MODULE_Report.pdf) |
 | 📹 Demo Video | [Watch on YouTube](https://youtu.be/pxkPz5mBSCE) |
 
 ---
@@ -139,14 +139,14 @@ Use **MQTT Explorer** or **HiveMQ Web Client**:
 Adaptive-Smart-Home-Module/
 │
 ├── src/
-│   └── adaptive_smart_home.ino         ← Main ESP32 code
+│   └── adaptive_smart_home.ino              ← Main ESP32 code
 │
 ├── docs/
-│   ├── architecture.md                 ← System architecture details
-│   ├── smart-home-presentation.html    ← Interactive HTML Presentation
-│   ├── SmartHome_Presentation.pptx     ← Project presentation (PPT)
-│   └── SmartHome_Report.docx           ← Project report (Word)
+│   └── architecture.md                      ← System architecture
 │
+├── smart_home.html                          ← Interactive HTML Presentation
+├── ESP32_Cloud_Home_Automation.pptx         ← PowerPoint Presentation
+├── ADAPTIVE_SMART_HOME_MODULE_Report.pdf    ← Project Report
 ├── README.md
 ├── LICENSE
 └── .gitignore
