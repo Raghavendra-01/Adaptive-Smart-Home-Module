@@ -9,6 +9,35 @@
 
 ---
 
+## 📹 Demo Video
+
+[![Adaptive Smart Home IoT Module Demo](https://img.youtube.com/vi/pxkPz5mBSCE/0.jpg)](https://youtu.be/pxkPz5mBSCE)
+
+> 🎬 Click the thumbnail above to watch the live demo on YouTube
+
+---
+
+## 👥 Project Team
+
+| Roll Number | Name | Program | Year |
+|-------------|------|---------|------|
+| 2300049001 | Meda Siva Sai Raghavendra Prasad | B.Tech ECE | 4th Year |
+| 2300049002 | Venkata Ashok Chittibomma | B.Tech ECE | 4th Year |
+| 2300049004 | Bojja Soma Sekhar Siddardha | B.Tech ECE | 4th Year |
+| 2300049007 | Yenumala Pavan Manikanth | B.Tech ECE | 4th Year |
+
+---
+
+## 📁 Project Documents
+
+| Document | Link |
+|----------|------|
+| 📊 Presentation (PPT) | [SmartHome_Presentation.pptx](docs/SmartHome_Presentation.pptx) |
+| 📄 Project Report | [SmartHome_Report.docx](docs/SmartHome_Report.docx) |
+| 📹 Demo Video | [Watch on YouTube](https://youtu.be/pxkPz5mBSCE) |
+
+---
+
 ## 📌 Project Objective
 
 To convert conventional home appliances into **smart IoT-enabled devices** by integrating them with a cloud platform for **real-time remote monitoring and control**.
@@ -119,10 +148,12 @@ Use **MQTT Explorer** or **HiveMQ Web Client**:
 Adaptive-Smart-Home-Module/
 │
 ├── src/
-│   └── adaptive_smart_home.ino   ← Main ESP32 code
+│   └── adaptive_smart_home.ino      ← Main ESP32 code
 │
 ├── docs/
-│   └── architecture.md           ← System architecture details
+│   ├── architecture.md              ← System architecture details
+│   ├── SmartHome_Presentation.pptx  ← Project presentation
+│   └── SmartHome_Report.docx        ← Project report
 │
 ├── README.md
 ├── LICENSE
