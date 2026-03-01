@@ -6,6 +6,7 @@
 ![Protocol](https://img.shields.io/badge/Protocol-MQTT%20TLS-green)
 ![Broker](https://img.shields.io/badge/Broker-HiveMQ%20Cloud-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Presentation](https://img.shields.io/badge/Presentation-Live%20HTML-blueviolet)
 
 ---
 
@@ -21,6 +22,7 @@
 
 | Document | Link |
 |----------|------|
+| 🌐 Interactive HTML Presentation | [smart-home-presentation.html](docs/smart-home-presentation.html) |
 | 📊 Presentation (PPT) | [SmartHome_Presentation.pptx](docs/SmartHome_Presentation.pptx) |
 | 📄 Project Report | [SmartHome_Report.docx](docs/SmartHome_Report.docx) |
 | 📹 Demo Video | [Watch on YouTube](https://youtu.be/pxkPz5mBSCE) |
@@ -137,12 +139,13 @@ Use **MQTT Explorer** or **HiveMQ Web Client**:
 Adaptive-Smart-Home-Module/
 │
 ├── src/
-│   └── adaptive_smart_home.ino      ← Main ESP32 code
+│   └── adaptive_smart_home.ino         ← Main ESP32 code
 │
 ├── docs/
-│   ├── architecture.md              ← System architecture details
-│   ├── SmartHome_Presentation.pptx  ← Project presentation
-│   └── SmartHome_Report.docx        ← Project report
+│   ├── architecture.md                 ← System architecture details
+│   ├── smart-home-presentation.html    ← Interactive HTML Presentation
+│   ├── SmartHome_Presentation.pptx     ← Project presentation (PPT)
+│   └── SmartHome_Report.docx           ← Project report (Word)
 │
 ├── README.md
 ├── LICENSE
