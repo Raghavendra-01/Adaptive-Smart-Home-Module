@@ -9,17 +9,6 @@
 
 ---
 
-## 👥 Project Team
-
-| Roll Number | Name | Program | Year |
-|-------------|------|---------|------|
-| 2300049001 | Meda Siva Sai Raghavendra Prasad | B.Tech ECE | 4th Year |
-| 2300049002 | Venkata Ashok Chittibomma | B.Tech ECE | 4th Year |
-| 2300049004 | Bojja Soma Sekhar Siddardha | B.Tech ECE | 4th Year |
-| 2300049007 | Yenumala Pavan Manikanth | B.Tech ECE | 4th Year |
-
----
-
 ## 📌 Project Objective
 
 To convert conventional home appliances into **smart IoT-enabled devices** by integrating them with a cloud platform for **real-time remote monitoring and control**.
